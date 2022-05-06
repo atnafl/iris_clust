@@ -7,7 +7,7 @@
 * library(NbClust)
 * res.nb<-NbClust(pmatrix,min.nc = 2,max.nc =10,method ="complete" )
 
-* Among all indices:                                                
+## Among all indices:                                                
 * 2 proposed 2 as the best number of clusters 
 * 18 proposed 3 as the best number of clusters 
 * 3 proposed 10 as the best number of clusters 
