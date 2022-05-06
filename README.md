@@ -1,5 +1,5 @@
 # iris_clust
-##dat=iris
+## dat=iris
 str(dat)
 table(complete.cases(dat))
 data<-scale(iris[,-c(5)])
